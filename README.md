@@ -32,14 +32,14 @@ Let us suppose we receive the below result
 
 | Customer | Recency(R) | Frequency(F) | Monetary Value(M) | RFM Class |
 |:---------|:----------:|:------------:|:-----------------:|:---------:|
-|Etha K.|4 days|58 orders|$2869|1-1-1|
-|Jerold Sporer|50 days|1 order|$44|3-4-4|
-|Anie Hettinger|47 days|2 orders|$156|3-2-1|
+|Jenny|4 days|58 orders|$2869|1-1-1|
+|Anne Ross|50 days|1 order|$44|3-4-4|
+|Nancy Perrie|47 days|2 orders|$156|3-2-1|
 
 <b>Result:</b><br/>
-1. <b>Etha K.</b> belongs to the "<b>Best Customer</b>" segment --<br/>
+1. <b>Jenny</b> belongs to the "<b>Best Customer</b>" segment --<br/>
 She purchased recently (R=1), frequently buys (F=1), and spent the most (M=1).
-2. <b>Jerold Sporer</b> is about to enter the "<b>Lost Cheap Customer</b>" segment --<br/>
+2. <b>Anne Ross</b> is about to enter the "<b>Lost Cheap Customer</b>" segment --<br/>
 He has not purchased in a while (R=3), bought few (F=4), and spent little (M=4).
-3. <b>Anie Hettinger</b> is a type of "<b>Almost Lost Customer</b>" segment --<br/>
+3. <b>Nancy Perrie</b> is a type of "<b>Almost Lost Customer</b>" segment --<br/>
 She has not made a purchase for some time (R=3), she bought somewhat frequently (F=2), but she is in the group who spent the most (M=1).
