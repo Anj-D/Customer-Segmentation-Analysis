@@ -18,12 +18,12 @@ RFM Analysis is used to understand and segment customers based on their buying b
 
 | Segment | RFM | Description | Marketing |
 |:--------|:---:|:------------|:---------:|
-|<b>Best Customers</b>| 111 | Customers who bought most recently, most often and spend the most | No price incentives, New products and loyalty programs |
-|<b>Loyal Customers</b>| 11X | Customers who bought most recently | Use R and M to further segment |
-|<b>Big Spenders</b>| XX1 | Customers who spend the most | Market your most expensive products |
-|<b>Almost Lost</b>| 311 | Haven't purchased for some time, but purchased frequently and spend the most | Agressive price incentives |
-|<b>Lost Customers</b>| 411 |Haven't purchased for some time, but purchased frequently and spend the most | Agressive price incentives |
-|<b>Lost Cheap Customers</b>| 444 | Last purchase long ago, purchased few and spend little | Don't spend too much trying to re-acquire |
+|<b>Best Customers</b>| 111 | Customers who bought most recently, most often and spend the most | No price incentives, Promote new products and loyalty programs |
+|<b>Loyal Customers</b>| 11X | Customers who bought most recently | Offer exclusive deals or EARLY ACCESS, Use R and M to further segment |
+|<b>Big Spenders</b>| XX1 | Customers who spend the most | Recommend premium products |
+|<b>Almost Lost</b>| 311 | Haven't purchased for some time, but purchased frequently and spend the most | Retarget with Agressive price incentives |
+|<b>Lost Customers</b>| 411 |Haven't purchased for some time, but purchased frequently and spend the most | Targeted campaigning, market their most bought products with agressive price incentives |
+|<b>Lost Cheap Customers</b>| 444 | Last purchase long ago, purchased few and spend little | Minimize marketing spending on them |
 
 ## Interpreting the RFM  Analysis
 
