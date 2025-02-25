@@ -1,0 +1,794 @@
+customer,rfm_segment,segment
+"Sean Miller",331,"Big Spenders"
+"Tamara Chand",231,"Big Spenders"
+"Raymond Buch",121,"Big Spenders"
+"Tom Ashbrook",441,"Big Spenders"
+"Adrian Barton",311,"Big Spenders"
+"Ken Lonsdale",111,"Best Customers"
+"Sanjit Chand",311,"Big Spenders"
+"Hunter Lopez",331,"Big Spenders"
+"Sanjit Engle",211,"Big Spenders"
+"Christopher Conant",431,"Big Spenders"
+"Todd Sumrall",231,"Big Spenders"
+"Greg Tran",211,"Big Spenders"
+"Becky Martin",341,"Big Spenders"
+"Seth Vernon",311,"Big Spenders"
+"Caroline Jumper",221,"Big Spenders"
+"Clay Ludtke",111,"Best Customers"
+"Maria Etezadi",111,"Best Customers"
+"Karen Ferguson",321,"Big Spenders"
+"Bill Shonely",431,"Big Spenders"
+"Edward Hooks",111,"Best Customers"
+"John Lee",111,"Best Customers"
+"Grant Thornton",441,"Big Spenders"
+"Helen Wasserman",321,"Big Spenders"
+"Tom Boeckenhauer",121,"Big Spenders"
+"Peter Fuller",441,"Big Spenders"
+"Christopher Martinez",441,"Big Spenders"
+"Justin Deggeller",321,"Big Spenders"
+"Joe Elijah",311,"Big Spenders"
+"Laura Armstrong",111,"Best Customers"
+"Pete Kriz",311,"Big Spenders"
+"Daniel Raglin",111,"Best Customers"
+"Natalie Fritzler",321,"Big Spenders"
+"Karen Daniels",441,"Big Spenders"
+"Nick Crebassa",121,"Big Spenders"
+"Harry Marie",211,"Big Spenders"
+"Keith Dawkins",111,"Best Customers"
+"Sean Braxton",421,"Big Spenders"
+"Zuschuss Carroll",211,"Big Spenders"
+"Joseph Holt",231,"Big Spenders"
+"Nora Preis",321,"Big Spenders"
+"Anna HÅ berlin",111,"Best Customers"
+"Adam Bellavance",111,"Best Customers"
+"Jim Epp",421,"Big Spenders"
+"Jane Waco",121,"Big Spenders"
+"Lena Creighton",211,"Big Spenders"
+"John Murray",121,"Big Spenders"
+"Jonathan Doherty",211,"Big Spenders"
+"Patrick O'Brill",111,"Best Customers"
+"Maribeth Schnelling",311,"Big Spenders"
+"Rick Wilson",121,"Big Spenders"
+"Brian Moss",211,"Big Spenders"
+"Paul Prost",211,"Big Spenders"
+"Natalie Webber",321,"Big Spenders"
+"Dean percer",311,"Big Spenders"
+"Fred Hopkins",111,"Best Customers"
+"Rick Huthwaite",121,"Big Spenders"
+"Penelope Sewall",421,"Big Spenders"
+"Brenda Bowman",211,"Big Spenders"
+"Joel Eaton",311,"Big Spenders"
+"Yana Sorensen",321,"Big Spenders"
+"Andy Reiter",121,"Big Spenders"
+"Dan Reichenbach",111,"Best Customers"
+"Grace Kelly",311,"Big Spenders"
+"Joseph Airdo",111,"Best Customers"
+"Nathan Mautz",321,"Big Spenders"
+"Valerie Dominguez",231,"Big Spenders"
+"Sarah Brown",331,"Big Spenders"
+"James Galang",111,"Best Customers"
+"Darrin Martin",321,"Big Spenders"
+"Corinna Mitchell",431,"Big Spenders"
+"Max Jones",321,"Big Spenders"
+"Brosina Hoffman",421,"Big Spenders"
+"Rob Lucas",111,"Best Customers"
+"William Brown",111,"Best Customers"
+"Victoria Wilson",311,"Big Spenders"
+"Shirley Daniels",111,"Best Customers"
+"Quincy Jones",411,"Big Spenders"
+"Alan Dominguez",321,"Big Spenders"
+"Cassandra Brandow",211,"Big Spenders"
+"Greg Maxwell",441,"Big Spenders"
+"Shahid Collister",311,"Big Spenders"
+"Kristen Hastings",221,"Big Spenders"
+"Robert Marley",331,"Big Spenders"
+"Keith Herrera",221,"Big Spenders"
+"Ben Ferrer",111,"Best Customers"
+"Christine Phan",321,"Big Spenders"
+"Bill Donatelli",111,"Best Customers"
+"Cindy Stewart",331,"Big Spenders"
+"Anne McFarland",111,"Best Customers"
+"Ross Baird",211,"Big Spenders"
+"Katherine Murray",111,"Best Customers"
+"Suzanne McNair",111,"Best Customers"
+"Alex Avila",131,"Big Spenders"
+"Naresj Patel",431,"Big Spenders"
+"Amy Cox",121,"Big Spenders"
+"Mick Hernandez",311,"Big Spenders"
+"Dennis Pardue",311,"Big Spenders"
+"Emily Phan",211,"Big Spenders"
+"Yoseph Carroll",231,"Big Spenders"
+"Stefania Perrino",111,"Best Customers"
+"Luke Weiss",421,"Big Spenders"
+"Cathy Prescott",111,"Best Customers"
+"Thomas Seio",321,"Big Spenders"
+"Tonja Turnell",321,"Big Spenders"
+"Mitch Webber",221,"Big Spenders"
+"Tom Prescott",231,"Big Spenders"
+"Tamara Willingham",221,"Big Spenders"
+"Dianna Wilson",231,"Big Spenders"
+"Mitch Willingham",441,"Big Spenders"
+"Harold Ryan",321,"Big Spenders"
+"Steven Cartwright",211,"Big Spenders"
+"Resi PÅ¡lking",211,"Big Spenders"
+"Lena Radford",121,"Big Spenders"
+"Mike Pelletier",211,"Big Spenders"
+"Anna Andreadi",431,"Big Spenders"
+"Ivan Liston",421,"Big Spenders"
+"Kelly Lampkin",321,"Big Spenders"
+"Laurel Beltran",421,"Big Spenders"
+"Dave Hallsten",231,"Big Spenders"
+"Irene Maddox",421,"Big Spenders"
+"Ted Trevino",121,"Big Spenders"
+"Kunst Miller",211,"Big Spenders"
+"Philisse Overcash",311,"Big Spenders"
+"Heather Kirkland",321,"Big Spenders"
+"Anthony Jacobs",121,"Big Spenders"
+"Joe Kamberova",111,"Best Customers"
+"Alan Hwang",211,"Big Spenders"
+"Dean Katz",111,"Best Customers"
+"Russell Applegate",111,"Best Customers"
+"Sue Ann Reed",211,"Big Spenders"
+"Jim Kriz",211,"Big Spenders"
+"Bart Watters",221,"Big Spenders"
+"Tracy Blumstein",311,"Big Spenders"
+"Rick Bensley",111,"Best Customers"
+"Giulietta Baptist",231,"Big Spenders"
+"Erin Smith",111,"Best Customers"
+"Deborah Brumfield",111,"Best Customers"
+"Kean Thornton",111,"Best Customers"
+"Sample Company A",111,"Best Customers"
+"Eugene Moren",121,"Big Spenders"
+"Dave Brooks",321,"Big Spenders"
+"Anthony Rawles",111,"Best Customers"
+"Arthur Gainer",211,"Big Spenders"
+"Anthony Johnson",221,"Big Spenders"
+"Stewart Carmichael",421,"Big Spenders"
+"Linda Cazamias",321,"Big Spenders"
+"Theone Pippenger",311,"Big Spenders"
+"Mark Cousins",131,"Big Spenders"
+"Jamie Kunitz",131,"Big Spenders"
+"Katrina Willman",131,"Big Spenders"
+"Bradley Drucker",331,"Big Spenders"
+"Arianne Irving",211,"Big Spenders"
+"Scot Coram",441,"Big Spenders"
+"Ellis Ballard",131,"Big Spenders"
+"Gary Zandusky",311,"Big Spenders"
+"Steven Roelle",421,"Big Spenders"
+"Natalie DeCherney",411,"Big Spenders"
+"Matt Abelman",211,"Big Spenders"
+"Sung Pak",211,"Big Spenders"
+"Dana Kaydos",231,"Big Spenders"
+"Rick Duston",421,"Big Spenders"
+"Toby Carlisle",421,"Big Spenders"
+"Alan Schoenberger",431,"Big Spenders"
+"Frank Hawley",411,"Big Spenders"
+"Claudia Bergmann",421,"Big Spenders"
+"Tracy Hopkins",321,"Big Spenders"
+"Bill Eplett",331,"Big Spenders"
+"Jill Fjeld",321,"Big Spenders"
+"Gary Hwang",441,"Big Spenders"
+"Roland Schwarz",321,"Big Spenders"
+"Muhammed Yedwab",211,"Big Spenders"
+"Peter McVee",441,"Big Spenders"
+"Stewart Visinsky",311,"Big Spenders"
+"Denise Monton",421,"Big Spenders"
+"Frank Preis",221,"Big Spenders"
+"Susan Pistek",121,"Big Spenders"
+"Craig Molinari",341,"Big Spenders"
+"Michael Paige",111,"Best Customers"
+"Sean Christensen",221,"Big Spenders"
+"Sanjit Jacobs",311,"Big Spenders"
+"Luke Foster",321,"Big Spenders"
+"Pierre Wener",121,"Big Spenders"
+"George Ashbrook",321,"Big Spenders"
+"Ken Heidel",311,"Big Spenders"
+"Chris Cortes",211,"Big Spenders"
+"Nora Paige",331,"Big Spenders"
+"Dorothy Badders",421,"Big Spenders"
+"Kelly Collister",341,"Big Spenders"
+"Fred Chung",121,"Big Spenders"
+"Bill Stewart",231,"Big Spenders"
+"John Stevenson",431,"Big Spenders"
+"Ruben Ausman",321,"Big Spenders"
+"Annie Thurman",111,"Best Customers"
+"Olvera Toch",231,"Big Spenders"
+"Rose O'Brian",321,"Big Spenders"
+"Michael Chen",121,"Big Spenders"
+"Michael Moore",111,"Best Customers"
+"Carol Adams",331,"Big Spenders"
+"Matthew Grinstein",221,"Big Spenders"
+"Maribeth Dona",222,Other
+"Jim Karlsson",122,Other
+"Juliana Krohn",442,Other
+"Frank Merwin",312,Other
+"Scott Cohen",112,"Loyal Customers"
+"Hunter Glantz",322,Other
+"Ben Peterman",112,"Loyal Customers"
+"Liz Preis",122,Other
+"Christopher Schild",212,Other
+"Ed Braxton",112,"Loyal Customers"
+"Jeremy Pistek",222,Other
+"Sam Zeldin",112,"Loyal Customers"
+"Rick Hansen",132,Other
+"Thomas Boland",442,Other
+"Gary McGarr",122,Other
+"Dionis Lloyd",322,Other
+"Erica Smith",432,Other
+"Robert Waldorf",132,Other
+"Anna Gayman",122,Other
+"Emily Ducich",322,Other
+"Pauline Webber",212,Other
+"Sarah Foster",212,Other
+"Frank Carlisle",422,Other
+"Sally Hughsby",212,Other
+"Sandra Glassco",142,Other
+"Trudy Schmidt",332,Other
+"Sam Craven",432,Other
+"Victoria Pisteka",222,Other
+"Doug Jacobs",442,Other
+"Dianna Vittorini",432,Other
+"Sylvia Foulston",212,Other
+"Dan Campbell",312,Other
+"Arthur Prichep",212,Other
+"Dennis Kane",212,Other
+"Katharine Harms",212,Other
+"Randy Ferguson",112,"Loyal Customers"
+"Rick Reed",232,Other
+"Brian Dahlen",122,Other
+"Brian Stugart",242,Other
+"Rob Williams",112,"Loyal Customers"
+"Daniel Lacy",432,Other
+"Damala Kotsonis",112,"Loyal Customers"
+"Jack O'Briant",112,"Loyal Customers"
+"Adam Shillingsburg",412,Other
+"Henry Goldwyn",212,Other
+"Adam Hart",312,Other
+"Lindsay Castell",442,Other
+"Carol Triggs",112,"Loyal Customers"
+"Edward Becker",112,"Loyal Customers"
+"Sharelle Roach",432,Other
+"Lindsay Williams",232,Other
+"Ricardo Sperren",432,Other
+"Alejandro Savely",232,Other
+"Mark Packer",222,Other
+"Christine Sundaresam",312,Other
+"Brian Thompson",222,Other
+"Deirdre Greer",232,Other
+"Jeremy Lonsdale",122,Other
+"Greg Matthias",432,Other
+"Janet Martin",222,Other
+"Chloris Kastensmidt",212,Other
+"Karen Bern",122,Other
+"Maxwell Schwartz",212,Other
+"Ruben Dartt",312,Other
+"Tanja Norvell",222,Other
+"Steve Nguyen",222,Other
+"Speros Goranitis",332,Other
+"Katherine Hughes",122,Other
+"Patrick Gardner",112,"Loyal Customers"
+"Eugene Hildebrand",112,"Loyal Customers"
+"Gary Mitchum",122,Other
+"Eugene Barchas",232,Other
+"Mike Gockenbach",242,Other
+"Kean Takahito",322,Other
+"Toby Gnade",232,Other
+"Shahid Shariari",122,Other
+"Sara Luxemburg",222,Other
+"Aaron Smayling",222,Other
+"Cynthia Arntzen",222,Other
+"Carlos Soltero",312,Other
+"Lindsay Shagiari",112,"Loyal Customers"
+"Michelle Huthwaite",332,Other
+"Frank Atkinson",122,Other
+"David Bremer",222,Other
+"Noel Staavos",312,Other
+"Tamara Manning",112,"Loyal Customers"
+"Christine Kargatis",432,Other
+"Thea Hudgings",442,Other
+"Liz Thompson",322,Other
+"Julie Kriz",412,Other
+"Becky Castell",312,Other
+"Shaun Weien",222,Other
+"Maris LaWare",122,Other
+"Rob Dowd",212,Other
+"Craig Yedwab",212,Other
+"Neil Ducich",432,Other
+"Barry FranzÅ¡sisch",112,"Loyal Customers"
+"Meg Tillman",232,Other
+"David Smith",212,Other
+"Paul Van Hugh",432,Other
+"Ionia McGrath",442,Other
+"Chuck Clark",112,"Loyal Customers"
+"Craig Carroll",442,Other
+"Arthur Wiediger",422,Other
+"Erin Ashbrook",312,Other
+"Linda Southworth",122,Other
+"Darren Budd",332,Other
+"Justin MacKendrick",112,"Loyal Customers"
+"Christina VanderZanden",232,Other
+"Troy Staebel",422,Other
+"Gary Hansen",112,"Loyal Customers"
+"Barry Gonzalez",112,"Loyal Customers"
+"Trudy Brown",112,"Loyal Customers"
+"Robert Dilbeck",432,Other
+"John Castell",312,Other
+"Philip Fox",332,Other
+"Emily Burns",112,"Loyal Customers"
+"Chris Selesnick",212,Other
+"Michelle Moray",112,"Loyal Customers"
+"Ken Black",212,Other
+"Lauren Leatherbury",232,Other
+"Marc Crier",422,Other
+"John Lucas",232,Other
+"Marina Lichtenstein",312,Other
+"Jay Kimmel",322,Other
+"Justin Ellison",442,Other
+"Bradley Talbott",332,Other
+"Bill Overfelt",232,Other
+"Frank Olsen",112,"Loyal Customers"
+"Nicole Hansen",322,Other
+"Richard Bierner",212,Other
+"Eva Jacobs",442,Other
+"Dave Kipp",422,Other
+"Christina Anderson",312,Other
+"Logan Currie",312,Other
+"Ralph Arnett",312,Other
+"Katherine Nockton",412,Other
+"Sean O'Donnell",432,Other
+"Stephanie Ulpright",422,Other
+"Alejandro Grove",232,Other
+"Helen Andreada",112,"Loyal Customers"
+"Lena Cacioppo",222,Other
+"Steve Chapman",112,"Loyal Customers"
+"Neola Schneider",342,Other
+"Beth Thompson",232,Other
+"Eleni McCrary",432,Other
+"Mary Zewe",122,Other
+"Bruce Stewart",122,Other
+"Deanra Eno",432,Other
+"Corey Catlett",122,Other
+"Ann Chong",332,Other
+"Herbert Flentye",222,Other
+"Charles McCrossin",232,Other
+"Fred McMath",312,Other
+"Julia Barnett",332,Other
+"Joy Smith",232,Other
+"Don Jones",322,Other
+"Amy Hunt",432,Other
+"Patrick O'Donnell",122,Other
+"Nick Zandusky",412,Other
+"Michael Nguyen",332,Other
+"Beth Paige",322,Other
+"Charles Crestani",222,Other
+"Nat Carroll",232,Other
+"Filia McAdams",212,Other
+"Mark Hamilton",322,Other
+"Valerie Mitchum",422,Other
+"Brendan Sweed",332,Other
+"George Zrebassa",242,Other
+"Michelle Arnett",232,Other
+"Bart Pistole",212,Other
+"Matt Collister",332,Other
+"Thea Hendricks",332,Other
+"Marc Harrigan",122,Other
+"David Flashing",242,Other
+"Xylona Preis",212,Other
+"Clytie Kelty",212,Other
+"Jennifer Ferguson",222,Other
+"Cynthia Voltz",212,Other
+"Nick Radford",432,Other
+"Jack Garza",442,Other
+"Andrew Gjertsen",322,Other
+"Craig Leslie",232,Other
+"Maureen Gastineau",142,Other
+"Roland Fjeld",122,Other
+"Elizabeth Moffitt",112,"Loyal Customers"
+"Dean Braden",312,Other
+"Chris McAfee",232,Other
+"Michael Kennedy",322,Other
+"Lena Hernandez",312,Other
+"Kristina Nunn",212,Other
+"Jamie Frazer",322,Other
+"Fred Harton",242,Other
+"Craig Carreira",222,Other
+"Bobby Elias",432,Other
+"Kalyca Meade",432,Other
+"Matt Connell",212,Other
+"Justin Hirsh",342,Other
+"Maribeth Yedwab",123,Other
+"Ken Dana",333,Other
+"Tony Sayre",333,Other
+"Jason Gross",123,Other
+"Laurel Workman",133,Other
+"Allen Rosenblatt",133,Other
+"Greg Guthrie",113,"Loyal Customers"
+"Mick Crebagga",113,"Loyal Customers"
+"Nathan Cano",333,Other
+"Dave Poirier",323,Other
+"Phillip Flathmann",133,Other
+"Maya Herman",123,Other
+"Janet Lee",133,Other
+"Justin Ritter",233,Other
+"Edward Nazzal",143,Other
+"Toby Braunhardt",333,Other
+"Giulietta Weimer",123,Other
+"Bill Tyler",223,Other
+"Pamela Stobb",123,Other
+"Shahid Hopkins",413,Other
+"Daniel Byrd",423,Other
+"Kean Nguyen",233,Other
+"Roy Phan",213,Other
+"Neoma Murray",313,Other
+"Helen Abelman",123,Other
+"Theresa Swint",333,Other
+"Ed Jacobs",243,Other
+"John Dryer",433,Other
+"Clay Rozendal",343,Other
+"Duane Noonan",223,Other
+"Karen Carlisle",123,Other
+"Stefanie Holloman",343,Other
+"Liz Carlisle",443,Other
+"Rob Haberlin",443,Other
+"Trudy Glocke",143,Other
+"Max Ludwig",323,Other
+"Roger Barcio",343,Other
+"Tom Stivers",133,Other
+"Art Ferguson",323,Other
+"Carlos Daly",133,Other
+"Nicole Fjeld",423,Other
+"Denny Joy",443,Other
+"Victoria Brennan",223,Other
+"Harold Pawlan",123,Other
+"Paul Gonzalez",313,Other
+"Doug Bickford",123,Other
+"Nona Balk",213,Other
+"Scott Williamson",433,Other
+"Lisa DeCherney",243,Other
+"Christy Brittain",323,Other
+"Tracy Poddar",443,Other
+"Jas O'Carroll",123,Other
+"Jay Fein",123,Other
+"Max Engle",113,"Loyal Customers"
+"Susan Vittorini",213,Other
+"Katherine Ducich",433,Other
+"Giulietta Dortch",343,Other
+"Sheri Gordon",213,Other
+"Lisa Ryan",333,Other
+"Shaun Chance",323,Other
+"Stephanie Phelps",113,"Loyal Customers"
+"Brooke Gillingham",123,Other
+"Nat Gilpin",433,Other
+"Skye Norling",333,Other
+"Cynthia Delaney",333,Other
+"Patrick Ryan",333,Other
+"Ashley Jarboe",223,Other
+"Emily Grady",433,Other
+"Pamela Coakley",143,Other
+"Pauline Johnson",423,Other
+"Noah Childs",233,Other
+"Janet Molinari",133,Other
+"Jennifer Braxton",313,Other
+"Andrew Allen",343,Other
+"Chad Cunningham",123,Other
+"Darrin Sayre",243,Other
+"Monica Federle",333,Other
+"Aaron Hawkins",123,Other
+"Logan Haushalter",113,"Loyal Customers"
+"Ben Wallace",123,Other
+"Valerie Takahito",443,Other
+"Mike Vittorini",123,Other
+"Adrian Hane",423,Other
+"Jessica Myrick",323,Other
+"Brad Eason",433,Other
+"Denny Blanton",343,Other
+"Julie Prescott",113,"Loyal Customers"
+"Tracy Zic",343,Other
+"Becky Pak",123,Other
+"Darren Koutras",333,Other
+"Meg O'Connel",113,"Loyal Customers"
+"Katrina Edelman",323,Other
+"Ryan Akin",133,Other
+"Cathy Armstrong",333,Other
+"Candace McMahon",123,Other
+"Jennifer Patt",323,Other
+"Chad McGuire",243,Other
+"Cindy Chapman",413,Other
+"Erica Bern",143,Other
+"Anne Pryor",423,Other
+"Annie Zypern",333,Other
+"Maurice Satty",333,Other
+"Tim Brockman",223,Other
+"Craig Reiter",443,Other
+"Alan Haines",343,Other
+"Benjamin Farhat",343,Other
+"Mike Caudle",233,Other
+"Cyma Kinney",213,Other
+"James Lanier",133,Other
+"George Bell",113,"Loyal Customers"
+"Karl Braun",113,"Loyal Customers"
+"Odella Nelson",413,Other
+"Mark Van Huff",313,Other
+"Maria Bertelson",313,Other
+"Brian DeCherney",123,Other
+"Cathy Hwang",143,Other
+"Bruce Degenhardt",123,Other
+"Benjamin Venier",133,Other
+"Kelly Andreada",123,Other
+"Ann Blume",143,Other
+"John Grady",333,Other
+"Dan Lawera",213,Other
+"Zuschuss Donatelli",333,Other
+"Charlotte Melton",433,Other
+"Laurel Elliston",333,Other
+"Ted Butterfield",233,Other
+"Parhena Norris",323,Other
+"Bradley Nguyen",433,Other
+"Ralph Kennedy",443,Other
+"Delfina Latchford",323,Other
+"Philip Brown",113,"Loyal Customers"
+"Andy Gerbode",443,Other
+"Raymond Messe",123,Other
+"Paul Knutson",443,Other
+"Tamara Dahlen",413,Other
+"Mick Brown",323,Other
+"Julia West",343,Other
+"Thomas Thornton",113,"Loyal Customers"
+"Christine Abelman",443,Other
+"Roger Demir",213,Other
+"Nancy Lomonaco",143,Other
+"Jill Stevenson",343,Other
+"Paul MacIntyre",443,Other
+"Guy Armstrong",113,"Loyal Customers"
+"Cyra Reiten",443,Other
+"Nathan Gelder",433,Other
+"Jeremy Ellison",233,Other
+"Troy Blackwell",133,Other
+"Frank Gastineau",323,Other
+"Don Miller",443,Other
+"Gene Hale",443,Other
+"Sarah Bern",443,Other
+"Liz MacKendrick",333,Other
+"Maureen Gnade",343,Other
+"Sarah Jordon",433,Other
+"Bryan Mills",113,"Loyal Customers"
+"Barry Franz",243,Other
+"Saphhira Shifley",323,Other
+"Dario Medina",123,Other
+"Michelle Tran",343,Other
+"Shirley Jackson",133,Other
+"Magdelene Morse",243,Other
+"Sibella Parks",333,Other
+"Matt Collins",423,Other
+"Eileen Kiefer",243,Other
+Corey-Lock,133,Other
+"Denny Ordway",213,Other
+"Hallie Redmond",433,Other
+"Georgia Rosenberg",443,Other
+"Cari Sayre",433,Other
+"Paul Stevenson",113,"Loyal Customers"
+"Stuart Van",343,Other
+"Doug O'Connell",223,Other
+"Carl Ludwig",343,Other
+"Liz Willingham",443,Other
+"Michelle Ellison",143,Other
+"Gene McClure",313,Other
+"Steve Carroll",233,Other
+"Matt Hagelstein",243,Other
+"Elpida Rittenbach",443,Other
+"Tony Chapman",113,"Loyal Customers"
+"Joni Wasserman",223,Other
+"Michael Grace",433,Other
+"Nora Pelletier",333,Other
+"Erica Hernandez",223,Other
+"Patrick Jones",223,Other
+"Jack Lebron",233,Other
+"Christina DeMoss",443,Other
+"Dorothy Wardle",223,Other
+"Michael Dominguez",133,Other
+"Evan Bailliet",233,Other
+"Benjamin Patterson",233,Other
+"Debra Catini",233,Other
+"Alyssa Tate",233,Other
+"Jim Radford",343,Other
+"Duane Benoit",323,Other
+"Claire Gute",343,Other
+"Kimberly Carter",243,Other
+"Carl Weiss",124,Other
+"Ross DeVincentis",114,"Loyal Customers"
+"Jim Sink",444,"Lost Cheap Customers"
+"Darrin Van Huff",434,Other
+"Alan Barnes",114,"Loyal Customers"
+"Tony Molinari",144,Other
+"Jesus Ocampo",134,Other
+"Scot Wooten",324,Other
+"Jeremy Farry",214,Other
+"Dennis Bolton",334,Other
+"David Wiener",434,Other
+"Cindy Schnelling",444,"Lost Cheap Customers"
+"Pauline Chand",444,"Lost Cheap Customers"
+"David Philippe",444,"Lost Cheap Customers"
+"Jenna Caffey",444,"Lost Cheap Customers"
+"Allen Armold",414,Other
+"Phillina Ober",234,Other
+"Alex Russell",144,Other
+"Vivek Sundaresam",444,"Lost Cheap Customers"
+"Darren Powers",314,Other
+"Duane Huffman",244,Other
+"Susan MacKendrick",444,"Lost Cheap Customers"
+"Eudokia Martin",444,"Lost Cheap Customers"
+"Theresa Coyne",444,"Lost Cheap Customers"
+"Mike Kennedy",444,"Lost Cheap Customers"
+"Tiffany House",214,Other
+"Sean Wendt",444,"Lost Cheap Customers"
+"Luke Schmidt",334,Other
+"Randy Bradley",444,"Lost Cheap Customers"
+"Lynn Smith",234,Other
+"Bruce Geld",124,Other
+"Victor Preis",444,"Lost Cheap Customers"
+"Ken Brennan",124,Other
+"Barry Pond",334,Other
+"Toby Swindell",434,Other
+"Russell D'Ascenzo",344,Other
+"Aimee Bixby",134,Other
+"Roy Collins",234,Other
+"Sung Shariari",234,Other
+"Jonathan Howell",224,Other
+"Jason Fortune-",134,Other
+"Rachel Payne",444,"Lost Cheap Customers"
+"Bryan Spruell",344,Other
+"Roy FranzÅ¡sisch",214,Other
+"Eric Barreto",334,Other
+"Maureen Fritzler",134,Other
+"Eric Murdock",234,Other
+"Alyssa Crouse",444,"Lost Cheap Customers"
+"Evan Henry",124,Other
+"Mary O'Rourke",244,Other
+"Alejandro Ballentine",314,Other
+"Katrina Bavinger",444,"Lost Cheap Customers"
+"Catherine Glotzbach",334,Other
+"Sonia Cooley",134,Other
+"Joni Blumstein",344,Other
+"Ryan Crowe",334,Other
+"Aaron Bergman",444,"Lost Cheap Customers"
+"Henia Zydlo",134,Other
+"Chad Sievert",244,Other
+"Harold Engle",244,Other
+"Sally Knutson",244,Other
+"Richard Eichhorn",234,Other
+"Jim Mitchum",134,Other
+"Jocasta Rupert",444,"Lost Cheap Customers"
+"Art Foster",444,"Lost Cheap Customers"
+"Julie Creighton",434,Other
+"Michael Stewart",124,Other
+"Vicky Freymann",334,Other
+"Vivek Gonzalez",124,Other
+"Charles Sheldon",334,Other
+"Todd Boyes",234,Other
+"Ann Steele",124,Other
+"Erica Hackney",334,Other
+"Thomas Brumley",344,Other
+"Alice McCarthy",234,Other
+"Brendan Murry",434,Other
+"David Kendrick",444,"Lost Cheap Customers"
+"Matthew Clasen",244,Other
+"Beth Fritzler",444,"Lost Cheap Customers"
+"Harry Greene",234,Other
+"Michael Granlund",114,"Loyal Customers"
+"Muhammed MacIntyre",214,Other
+"Sandra Flanagan",324,Other
+"Steven Ward",444,"Lost Cheap Customers"
+"Liz Pelletier",444,"Lost Cheap Customers"
+"Dorris liebe",234,Other
+"Barry Blumstein",334,Other
+"Ivan Gibson",444,"Lost Cheap Customers"
+"Tracy Collins",224,Other
+"Michelle Lonsdale",344,Other
+"Patrick Bzostek",444,"Lost Cheap Customers"
+"Ritsa Hightower",144,Other
+"Angele Hood",344,Other
+"Henry MacAllister",244,Other
+"Pete Armstrong",234,Other
+"Patricia Hirasaki",444,"Lost Cheap Customers"
+"Jennifer Jackson",234,Other
+"Julia Dunbar",444,"Lost Cheap Customers"
+"Peter BÅ¸hler",444,"Lost Cheap Customers"
+"Eric Hoffmann",224,Other
+"Toby Ritter",434,Other
+"Alex Grayson",434,Other
+"Berenike Kampe",434,Other
+"Bryan Davis",224,Other
+"Anna Chung",234,Other
+"Anthony Witt",244,Other
+"Joy Bell-",424,Other
+"Lori Olson",234,Other
+"Mathew Reese",244,Other
+"Carol Darley",344,Other
+"Astrea Jones",144,Other
+"Ralph Ritter",444,"Lost Cheap Customers"
+"Shirley Schmidt",344,Other
+"Bobby Trafton",444,"Lost Cheap Customers"
+"Barbara Fisher",424,Other
+"Maria Zettner",344,Other
+"Alan Shonely",224,Other
+"Denise Leinenbach",244,Other
+"Brian Derr",444,"Lost Cheap Customers"
+"Neil Knudson",224,Other
+"Carlos Meador",444,"Lost Cheap Customers"
+"Chuck Sachs",444,"Lost Cheap Customers"
+"Cari Schnelling",124,Other
+"John Huston",234,Other
+"Rob Beeghly",234,Other
+"Andy Yotov",344,Other
+"Corey Roper",444,"Lost Cheap Customers"
+"MaryBeth Skach",444,"Lost Cheap Customers"
+"Joni Sundaresam",434,Other
+"Erin Creighton",434,Other
+"Khloe Miller",234,Other
+"Kelly Williams",144,Other
+"Tim Taslimi",444,"Lost Cheap Customers"
+"Shui Tom",224,Other
+"Vivek Grady",334,Other
+"Sonia Sunley",334,Other
+"Brad Thomas",244,Other
+"Mark Haberlin",444,"Lost Cheap Customers"
+"Joy Daniels",434,Other
+"Barry Weirich",344,Other
+"Jason Klamczynski",144,Other
+"Vivian Mathis",434,Other
+"Neil FranzÅ¡sisch",244,Other
+"Melanie Seite",444,"Lost Cheap Customers"
+"Aleksandra Gannaway",344,Other
+"Lycoris Saunders",444,"Lost Cheap Customers"
+"Evan Minnotte",344,Other
+"Heather Jas",334,Other
+"Don Weiss",334,Other
+"Larry Tron",444,"Lost Cheap Customers"
+"Brendan Dodson",144,Other
+"Lisa Hazard",444,"Lost Cheap Customers"
+"Jennifer Halladay",344,Other
+"Jill Matthias",134,Other
+"Chuck Magee",344,Other
+"Larry Hughes",344,Other
+"Sung Chung",444,"Lost Cheap Customers"
+"Stuart Calhoun",444,"Lost Cheap Customers"
+"Bart Folk",244,Other
+"Nicole Brennan",344,Other
+"Dorothy Dickinson",124,Other
+"Brad Norvell",444,"Lost Cheap Customers"
+"Andrew Roberts",134,Other
+"Harold Dahlen",444,"Lost Cheap Customers"
+"Sally Matthias",444,"Lost Cheap Customers"
+"Paul Lucas",434,Other
+"Guy Phonely",344,Other
+"Erin Mull",444,"Lost Cheap Customers"
+"Guy Thornton",144,Other
+"Robert Barroso",434,Other
+"Hilary Holden",244,Other
+"Allen Goldenen",434,Other
+"Joel Jenkins",444,"Lost Cheap Customers"
+"Anthony Garverick",444,"Lost Cheap Customers"
+"Muhammed Lee",144,Other
+"Anthony O'Donnell",444,"Lost Cheap Customers"
+"Pete Takahito",444,"Lost Cheap Customers"
+"Dianna Arnett",344,Other
+"Michael Oakman",444,"Lost Cheap Customers"
+"Greg Hansen",244,Other
+"Phillip Breyer",444,"Lost Cheap Customers"
+"Bobby Odegard",444,"Lost Cheap Customers"
+"Ed Ludwig",444,"Lost Cheap Customers"
+"Clay Cheatham",444,"Lost Cheap Customers"
+"Roland Murray",444,"Lost Cheap Customers"
+"Karen Seio",444,"Lost Cheap Customers"
+"Anemone Ratner",444,"Lost Cheap Customers"
+"Fred Wasserman",444,"Lost Cheap Customers"
+"Jasper Cacioppo",244,Other
+"Adrian Shami",444,"Lost Cheap Customers"
+"Larry Blacks",344,Other
+"Susan Gilcrest",244,Other
+"Ricardo Emerson",244,Other
+"Roy Skaria",444,"Lost Cheap Customers"
+"Carl Jackson",144,Other
+"Mitch Gastineau",444,"Lost Cheap Customers"
+"Thais Sissman",444,"Lost Cheap Customers"
+"Lela Donovan",344,Other
