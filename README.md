@@ -34,10 +34,6 @@ Let us suppose we receive the below result
 |Jenny|4 days|58 orders|$2869|1-1-1|
 |Billy Ross|50 days|1 order|$44|3-4-4|
 |Nancy Perrie|47 days|2 orders|$156|3-2-1|
-# MySQL code calculating rfm scores
-![Image](https://github.com/user-attachments/assets/c19207f5-3fdb-4811-867a-aaa2089d6eae)
-
-![Image](https://github.com/user-attachments/assets/70535253-721b-4909-afb3-eeb7ee78194c)
 
 <b>Result:</b><br/>
 1. <b>Jenny</b> belongs to the "<b>Best Customer</b>" segment --<br/>
@@ -46,3 +42,11 @@ She purchased recently (R=1), frequently buys (F=1), and spent the most (M=1).
 He has not purchased in a while (R=3), bought few (F=4), and spent little (M=4).
 3. <b>Nancy Perrie</b> is a type of "<b>Almost Lost Customer</b>" segment --<br/>
 She has not made a purchase for some time (R=3), she bought somewhat frequently (F=2), but she is in the group who spent the most (M=1).
+
+# MySQL code calculating rfm scores
+![Image](https://github.com/user-attachments/assets/c19207f5-3fdb-4811-867a-aaa2089d6eae)
+
+![Image](https://github.com/user-attachments/assets/70535253-721b-4909-afb3-eeb7ee78194c)
+* Final segmentation based on aquired scores
+![Image](https://github.com/user-attachments/assets/2ae237f5-3af5-4d42-ac62-e1b0ea51020d)
+![Image](https://github.com/user-attachments/assets/8cc6b3c0-5541-4ace-b47e-6f66c470c4d5)
