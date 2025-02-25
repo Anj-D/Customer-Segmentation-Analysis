@@ -1,6 +1,5 @@
 # Customer-Segmentation-Analysis
-<img src="https://d35fo82fjcw0y8.cloudfront.net/2018/03/01013508/Incontent_image.png" width=600px/>
-
+![Image](https://github.com/user-attachments/assets/5713fe4a-4714-4d95-8438-95cb72e81e1a)
 # RFM-Analysis
 RFM Analysis is used to understand and segment customers based on their buying behaviour. RFM stands for recency, frequency, and monetary value, which are three key metrics providing information about customer engagement, loyalty, and value to a business. It is used to determine quantitatively which customers are the best ones by examining how recently a customer has purchased (Recency), how often they purchase (Frequency), and how much the customer spends (Monetary).
 
